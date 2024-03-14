@@ -12,24 +12,23 @@ sudo yum install mpv    # For CentOS/RHEL
 ## Usage
 Running the Script:
 Execute the script using Bash:
-bash music_player.sh
+bash music_player.sh<br>
 Main Menu:
-
 The main menu presents options to Play, Pause, Resume, Stop, Skip Track, Adjust Volume, or Quit the music player.
-Choose an option by clicking on it.
+Choose an option by clicking on it.<br>
 Playing Audio:
 
 Click "Play" to select an audio file using the file selection dialog.
-The script will display song information including the song name, elapsed time, and remaining time.
+The script will display song information including the song name, elapsed time, and remaining time.<br>
 Pause, Resume, Stop, Skip Track:
 
-Click "Pause" to pause the playback.
-Click "Resume" to resume playback.
-Click "Stop" to stop playback.
-Click "Skip Track" to skip to the next track in the playlist.
+Click "Pause" to pause the playback.<br>
+Click "Resume" to resume playback.<br>
+Click "Stop" to stop playback.<br>
+Click "Skip Track" to skip to the next track in the playlist.<br>
 Adjusting Volume:
 
-Click "Adjust Volume" to set the volume level using the volume slider.
+Click "Adjust Volume" to set the volume level using the volume slider.<br>
 Quit:
 
 Click "Quit" to exit the music player.
